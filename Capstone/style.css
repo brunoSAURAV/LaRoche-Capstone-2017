@@ -1,0 +1,94 @@
+body{
+   
+}
+
+header{
+   
+}
+.menu{
+    float:right;
+    
+}
+
+.menu li{
+    display:inline-block;
+}
+.menu li a button{
+    background-color: beige;
+    font-size: 10px;
+}
+.menu li a{
+    text-decoration: none;
+}
+
+.menu li a.Department{
+    
+}
+
+.menu li a {
+    padding:10px;
+}
+
+/*Adjusting the picture Size*/
+
+#logo img{
+    height: 100px;
+}
+
+.menu li h1{
+     padding-right: 800px;
+}
+
+main{
+   padding: 10px; 
+    
+}
+
+.entries{
+    padding: 10px;
+}
+
+.push{
+    padding-left: 300px;
+}
+
+label{
+float: left;
+width: 120px;
+font-weight: bold;
+}
+
+
+/*Stying the div tag*/
+
+.col{
+	
+	float:left;
+	padding:5%;
+	background-color: #ffffff;	
+	
+	
+}
+
+
+
+
+
+.colgrid{
+	width:31.32%;
+}
+
+.colgrid img{
+	width: 100%;
+	height: 100%;
+	display:block;
+    
+}
+.grid{
+	width:500px;
+	height: 358px;
+}
+
+
+   
+

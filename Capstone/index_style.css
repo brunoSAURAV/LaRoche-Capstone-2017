@@ -1,0 +1,86 @@
+body{
+   background-color:aquamarine; 
+}
+.menu{
+    float:none;
+}
+
+.menu li{
+    display:inline-block;
+}
+.menu li a{
+    text-decoration: none;
+}
+
+.menu li a.Department{
+    
+}
+
+.menu li a {
+    padding:10px;
+}
+
+/*Adjusting the picture Size*/
+
+#logo img{
+    height: 100px;
+}
+
+.menu li h1{
+     padding-right: 820px;
+}
+
+main{
+   padding: 10px; 
+    background-color: aquamarine;
+}
+
+.entries{
+    padding: 10px;
+}
+
+.push{
+    padding-left: 300px;
+}
+
+label{
+float: left;
+width: 120px;
+font-weight: bold;
+}
+
+
+/*Stying the div tag*/
+
+.col{
+	
+	float:left;
+	padding:5%;
+	background-color:#de4646;	
+	
+	
+}
+
+
+
+
+
+
+.colgrid{
+	width:31.32%;
+}
+
+.colgrid img{
+	width: 100%;
+	height: 100%;
+	display:block;
+    
+}
+.grid{
+	width:500px;
+	height: 358px;
+}
+
+
+   
+
